@@ -1,0 +1,2 @@
+linux_interrupts       nmi:COUNTER:0:U, local:COUNTER:0:U, spurious:COUNTER:0:U, pmi:COUNTER:0:U, resched:COUNTER:0:U, call:COUNTER:0:U, tlb:COUNTER:0:U, thermal:COUNTER:0:U, apicthresh:COUNTER:0:U, mce:COUNTER:0:U, mcpoll:COUNTER:0:U
+linux_softirqs         hi:COUNTER:0:U, timer:COUNTER:0:U, net_tx:COUNTER:0:U, net_rx:COUNTER:0:U, block:COUNTER:0:U, irq_poll:COUNTER:0:U, tasklet:COUNTER:0:U, sched:COUNTER:0:U, hrtimer:COUNTER:0:U, rcu:COUNTER:0:U
